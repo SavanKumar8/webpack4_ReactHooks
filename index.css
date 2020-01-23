@@ -1,0 +1,9 @@
+.exercise_completed{
+        text-decoration: line-through;
+        opacity: 0.5;
+        color: green;
+        font-weight: bold;
+}
+body{
+        background-color: darkgrey;
+} 
